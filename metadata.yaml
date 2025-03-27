@@ -1,0 +1,25 @@
+_repo: Auf-alten-Wegen-b-Novellen_75592
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchmann, Otto
+    gutenberg_agent_id: '58062'
+    url: http://www.gutenberg.org/2009/agents/58062
+description: ''
+gutenberg_issued: '2025-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75592'
+language: de
+pgterms:marc905: 20171022045429buchmann
+pgterms:marc906: '1920'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aHannover :$bTischbeins Verlag, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Auf alten Wegen : $b Novellen'
+url: http://www.gutenberg.org/ebooks/75592
